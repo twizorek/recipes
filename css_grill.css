@@ -1,0 +1,30 @@
+	body {
+	
+		font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+		background-color:#F0F8FF;
+		background-image:url(grill.png);
+		background-repeat: no-repeat;
+		background-position:center;
+		margin-top:300px;
+	
+	}
+	
+	h1{
+		
+		color:#F0F0E0;
+		text-align:center;
+		font-size:75px;
+		padding-top:200px;
+		
+	}
+
+	
+	.grill {
+		
+		
+		margin-left:400px;
+		font-size:30px;
+	
+		
+	}
+	
